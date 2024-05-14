@@ -1,7 +1,23 @@
 
-   {
-        "food":[
-        {"foodId":11,"foodName":"Myllyn Paras Kaurahiutale","foodGroup":"cereal","foodKcal":362,"foodProtein":14,"foodFats":7.5,"foodCarbs":54},
-        {"foodId":21,"foodName":"Kotimaista broilerin fileesuikale hunaja","foodGroup":"chicken","foodKcal":94,"foodProtein":16,"foodFats":2.5,"foodCarbs":1.6}
-        ]
+{
+    "food": [
+        {
+            "foodId": 11,
+            "foodName": "Myllyn Paras Kaurahiutale",
+            "foodGroup": "cereal",
+            "foodKcal": 362,
+            "foodProtein": 14,
+            "foodFats": 7.5,
+            "foodCarbs": 54
+        },
+        {
+            "foodId": 21,
+            "foodName": "Kotimaista broilerin fileesuikale hunaja",
+            "foodGroup": "chicken",
+            "foodKcal": 94,
+            "foodProtein": 16,
+            "foodFats": 2.5,
+            "foodCarbs": 1.6
+        }
+    ]
 }
